@@ -1,0 +1,14 @@
+<annotation>
+	<folder>video_1</folder>
+	<filename>image110.jpg</filename>
+	<path>/home/drb/SGAE/DATASETS/Cuatro/video_1/image110.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
